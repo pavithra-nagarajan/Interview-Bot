@@ -1,0 +1,9 @@
+Flask
+mysql-connector-python
+urlparse
+spacy_universal_sentence_encoder
+torch
+requests
+tempfile
+statistics
+boto3
